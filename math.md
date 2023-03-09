@@ -5,3 +5,6 @@
 * https://www.wolfram.com/cloud/
 * [Mathematica Essentials: Intro & Overview](https://www.youtube.com/watch?v=zJafYAN5RL8)
 * [Getting Started with Mathematica](https://www.youtube.com/watch?v=mXFDAz3S9Uk&list=PLxdnSsBqCrrE4j99TtW_zdyED2IVgbBUd)
+
+
+* [Mathematics for Machine Learning](https://www.youtube.com/playlist?list=PL1w8k37X_6L_CHPoRTzDSlGDiTelSe2x-)
