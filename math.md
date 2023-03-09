@@ -8,3 +8,4 @@
 
 
 * [Mathematics for Machine Learning](https://www.youtube.com/playlist?list=PL1w8k37X_6L_CHPoRTzDSlGDiTelSe2x-)
+* [How to Understand Math Intuitively?](https://www.youtube.com/watch?v=glZLHLLalv0)
