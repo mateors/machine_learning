@@ -29,6 +29,7 @@
 * https://christophm.github.io/interpretable-ml-book
 * https://www.tivadardanka.com/blog/the-statistical-foundations-of-machine-learning
 * https://github.com/eriklindernoren/ML-From-Scratch
+* https://towardsdatascience.com/the-deep-learning-ai-dictionary-ade421df39e4
 
 
 ## Books 
