@@ -388,7 +388,7 @@ Ordinary Least Squares OLS will try to find a regression line that
 minimizes the sum of errors squared
 
 ## Polynomial Regression
- In polynomial regressions, our model will result in a line that has a curve
+In polynomial regressions, our model will result in a line that has a curve
 
 If we tried to use linear regression to fit a graph that has nonlinear
 characteristics, we would do a poor job of creating the best fit line. Take the
@@ -518,19 +518,20 @@ either real or imagined, visual or mental, static or dynamic, qualitative or qua
 recreational. They can arise from the world around us, from the pursuit of science, or from the inner
 workings of the human mind. Different kinds of patterns give rise to different branches of mathematics
 
-Arithmetic and number theory study the patterns of number and counting.
-• Geometry studies the patterns of shape.
-• Calculus allows us to handle patterns of motion.
-• Logic studies patterns of reasoning.
-• Probability theory deals with patterns of chance.
-• Topology studies patterns of closeness and position.
-• Fractal geometry studies the self-similarity found in the natural world.
+### Arithmetic and number theory study the patterns of number and counting.
+* Geometry studies the patterns of shape.
+* Calculus allows us to handle patterns of motion.
+* Logic studies patterns of reasoning.
+* Probability theory deals with patterns of chance.
+* Topology studies patterns of closeness and position.
+* Fractal geometry studies the self-similarity found in the natural world.
 
-algebraic expressions, complicated-looking formulas, and geometric diagrams
+> algebraic expressions, complicated-looking formulas, and geometric diagrams
 
 When two numbers are added, their order is not important.
 However, it is usually written in the symbolic form
-m + n = n + m
+
+> `m + n = n + m`
 
 The same is true for mathematics; the symbols on a page are just a
 representation of the mathematics.
@@ -539,16 +540,9 @@ When read by a competent performer (in this case, someone trained
 in mathematics), the symbols on the printed page come alive—the mathematics lives and breathes in the
 mind of the reader like some abstract symphony.
 
-> mathematics makes the invisible visible
+> Mathematics makes the invisible visible
 
-And it sets the scene for this book, the
-main aim of which is to provide you with the basic mental tools you will need to enter this new world of
-modern mathematics 
+And it sets the scene for this book, the main aim of which is to provide you with the basic mental tools you will need to enter this new world of modern mathematics 
 
 
-
-> There are so many different mathematical techniques, with new ones being developed all the time, that it is impossible to cover them all in K-16
-education. By the time a college frosh graduates and enters the workforce, many of the specific techniques
-learned in those four college-years are likely to be no longer as important, while new ones are all the rage.
-The educational focus has to be on learning how to learn
-
+> There are so many different mathematical techniques, with new ones being developed all the time, that it is impossible to cover them all in K-16 education. By the time a college frosh graduates and enters the workforce, many of the specific techniques learned in those four college-years are likely to be no longer as important, while new ones are all the rage. The educational focus has to be on learning how to learn.
