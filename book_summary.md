@@ -67,8 +67,7 @@ patterns.
 
 ## rote learning
 
-Sandford University refers to machine learning as "The science of getting
-computers to act without being explicitly programmed."
+Sandford University refers to **machine learning** as `"The science of getting computers to act without being explicitly programmed."`
 
 Normal computer programming uses an input command to direct the
 model. An example of this would be plugging 4+4 into your python window.
