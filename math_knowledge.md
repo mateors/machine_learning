@@ -97,43 +97,32 @@ variable
 
 You are on a 1-day streak — can you make it to 3 days in a row?
 
-Lesson complete
+## Lesson
 1. Understanding Expressions
 2. Understanding Equations
 3. Understanding Variables
 
-Understanding Equations
+### Understanding Equations
 An equation brings two expressions together. It tells us how the variables involved are related, which lets us determine their values.
 
+> The two expressions in an equation remain equal if the same quantity is removed from each — just like removing weights from both sides of a balanced scale.
 
-The two expressions in an equation remain equal if the same quantity is removed from each — just like removing weights from both sides of a balanced scale.
-
-An equation relates variables by setting the values of two expressions equal to each other. We started solving equations by representing them with scales and finding the weights that balance them.
+> An equation relates variables by setting the values of two expressions equal to each other. We started solving equations by representing them with scales and finding the weights that balance them.
 
 3. Understanding Variables
 Variables are placeholders for unknown quantities.
 
+> Finding the values of unknowns can help us reason about different situations.
 
-Finding the values of unknowns can help us reason about different situations.
+> A variable is a letter or other symbol that is used in place of an unknown value.
 
+> By finding the value of one variable, we were able to find the value of another.
 
-A variable is a letter or other symbol that is used in place of an unknown value.
+> A program is a series of instructions that the computer executes step by step.
 
-By finding the value of one variable, we were able to find the value of another.
+> **Repetition** lets us take advantage of patterns to write simpler programs.
 
+> **Computer science** is about finding patterns in problems and using them to discover solutions.
 
-A program is a series of instructions that the computer executes step by step.
-
-Repetition lets us take advantage of patterns to write simpler programs.
-
-Computer science is about finding patterns in problems and using them to discover solutions.
-
-In this lesson, we built our first programs by stitching together elementary commands.
-
-In the next lesson we'll see how repetition can be a powerful tool to build solutions to bigger problems out of the solutions to smaller ones.
-
-
-A key part of computer science is breaking problems down into smaller steps.
-
-In this lesson we used the powerful construct of repetition to build solutions to bigger problems out of the solutions to smaller ones.
+> A key part of computer science is breaking problems down into smaller steps.
 
