@@ -1,6 +1,7 @@
 # Mathematica by stephen wolfram
+Stephen Wolfram - The Mathematica Book, Fifth Edition (2003)
 
-> Book : A New Kind of Science
+> Book need to read : `A New Kind of Science`
 
 > the invenstion of a new kind of symblolic computer language that could for the first time manipulate the very wide range of objects involved in  technical computing using only a fairly small number of basic primitives.
 
